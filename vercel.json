@@ -14,7 +14,6 @@
       ]
     }
   ],
-  "regions": ["iad1", "sfo1", "lhr1", "hnd1"],
   "functions": {
     "app/**": {
       "maxDuration": 10
